@@ -1,3 +1,5 @@
+#Tema do Seminário: Odores em código-fonte e refatoração
+
 # comandos-fe
 Integrantes do grupo:   
 Bruno Fetzer - 202511362,   
